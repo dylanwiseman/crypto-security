@@ -1,0 +1,31 @@
+1. Reverse the order of letters in the alphabet. 
+2. Shift all letters down by 2.
+3. Replace spaces with odd numbers except for 1.
+4. Replace . with 0 and ! with 1
+5. Capitalize randomly.
+6. Insert meaningless character every 5 characters.
+
+I love cryptology!
+P3mJxCt7vUgZiE5JMjr-z1
+
+Cyber Security Breach:
+
+In November 2014, Sony was targeted by a cyberattack that
+was later attributed to North Korea. Somehow, hackers were
+able to gain backdoor access to employee computers. Over
+the course of a year, they copied files to their own
+computers and deleted the source files, then finally
+wiped each attacked computer. When the employees came to
+work, their computers only showed a red skull image. The 
+hackers then held the company data for ransom.
+
+Weak passwords, Facebook phishing, and a lack of security layers enabled the
+attack. "Password" was used as a password at least three 
+times across the network, and once the hackers got into 
+one server, they could easily reach the rest. 
+
+Sony vowed to increase its phishing awareness, and
+to partition its network better.
+
+
+
